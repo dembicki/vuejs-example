@@ -1,0 +1,3 @@
+[submodule "src/modules/sub-module-example"]
+	path = src/modules/sub-module-example
+	url = https://github.com/dembicki/vuejs-submodule-example.git
